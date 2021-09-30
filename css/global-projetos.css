@@ -1,0 +1,107 @@
+.header {
+    margin-bottom: 94px;
+}
+.hero-section {
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 115px;
+}
+.descrição {
+    display: flex;
+    justify-content: center;
+}
+.projeto-aside {
+    margin-right: 125px;
+    width: 350px;
+}
+.projeto-aside__h2 {
+    color: #33323D;
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 40px;
+    line-height: 42px;  
+    margin-bottom: 29px;
+}
+.projeto-aside__p {
+    color: #33323D;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    margin-bottom: 50px;
+    opacity: 0.8;
+}
+.projeto-aside__p--collor {
+    color: #5FB4A2;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    margin-bottom: 16px;
+}
+.projeto-aside__p--bottom {
+    margin-bottom: 32px;
+}
+.projeto-aside__btn {
+    border: 1px solid #33323D;
+    display: inline-block;
+    margin-bottom: 48px;
+    padding: 17px 60px;
+}
+.main-section {
+    margin-bottom: 64px;
+    width: 550px;
+    
+}
+.main-section__main {
+    color: #33323D;
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-size: 32px;
+    line-height: 42px;
+    margin-bottom: 28px;
+}
+.main-section__p {
+    color: #33323D;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 15px;
+    line-height: 30px;
+    margin-bottom: 40px;
+    opacity: 0.8;
+}
+.main-section__img {
+    margin-bottom: 32px;
+    width: 100%;
+}
+.main-section__img--bottom2x {
+    margin-bottom: 64px;
+}
+.link-section {
+    display: flex;
+    justify-content: space-between;
+    margin: 32px 0px
+}
+.link-section--flex-collum {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+}
+.link-section__main {
+    color: #33323D;
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 32px;
+    line-height: 36px;
+    text-align: right;
+}
+.link-section__a {
+    color: #33323D;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    opacity: 0.5;
+    text-decoration: none;
+    text-align: right;
+}
+.linha-link-superior {
+    margin-bottom: 0px;
+}
+.linha-link-inferior {
+    margin-bottom: 115px;
+}

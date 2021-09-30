@@ -1,0 +1,46 @@
+.header {
+    margin-bottom: 94px;
+}
+.section {
+    margin-bottom: 80px;
+}
+.section--row {
+    display: flex;
+}
+.img {
+    height: 500px;
+    width: 540px;
+}
+.linha {
+    margin-bottom: 100px;
+}
+.section__h2 {
+    color: #33323D;
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 40px;
+    line-height: 42px;
+    margin-bottom: 28px;
+}
+.section__p {
+    color: #33323D;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    margin-bottom: 54px;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+.section__btn {
+    display: inline-block;
+    margin-bottom: 100px;
+}
+.section--padding-left {
+    padding-left: 125px;
+}
+.section--padding-right {
+    padding-right: 125px;
+}
+.section__btn {
+    border: 1px solid #33323D;
+    padding: 17px 50px;
+}

@@ -1,0 +1,87 @@
+.header {
+    margin-bottom: 54px;
+}
+.btn-home--collor {
+    color: #5FB4A2;
+}
+.hero-section {
+    background-image: url(../../assets/home/image-homepage-hero.jpg);
+    background-size: cover;
+    margin-bottom: 149px;
+    padding: 243px 665px 0px 0px;
+}
+.hero-section__apresentação {
+    background: #FAFAFA;
+    padding-top: 56px;
+    width: 445px;
+}
+.hero-section__h1 {
+    color: #33323D;
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 50px;
+    line-height: 50px;
+    margin: 0px 28px 53px;
+}
+.hero-section__btn--flex-row {
+    display: flex;
+    background: #203A4C;
+    margin-right: 245px;
+}
+.hero-section__img {
+    background: rgba(0, 0, 0, 0.1);
+    padding: 18px 16px;
+}
+.hero-section__btn {
+    background: #203A4C;
+    color: #FFFFFF;
+    font-size: 12px;
+    letter-spacing: 2px;
+    line-height: 14px;
+    padding: 17px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 150px;
+}
+
+.sobre-section {
+    display: flex;
+    margin-bottom: 150px;
+}
+.sobre-section__img {
+    margin-right: 140px;
+    max-height: 600px;
+    max-width: 100%;
+}
+.sobre-section__h2 {
+    color: #33323D;
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 42px;
+    margin-bottom: 28px;
+}
+.sobre-section__p {
+    color: #33323D;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 13px;
+    line-height: 30px;
+    margin-bottom: 24px;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+.sobre-section__btn {
+    border: 1px solid #33323D;
+    color: #33323D;
+    display: inline-block;
+    margin-bottom: 45px;
+    padding: 17px 28px;
+}
+.btn--center {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+

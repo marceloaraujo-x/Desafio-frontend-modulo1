@@ -1,0 +1,79 @@
+.header {
+    margin-bottom: 94px;
+}
+.entre-em-contato-section {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.linha {
+    margin-bottom: 48px;
+}
+.entre-em-contato-section--row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 54px;
+}
+.img--right {
+    margin-right: 15px;
+}
+.entre-em-contato-section__h2 {
+    color: #33323D;
+    font-family: 'Ibarra Real Nova', serif; 
+    font-size: 40px;
+    line-height: 42px;
+    margin-right: 125px;
+    min-width: 350px;
+}
+.entre-em-contato-section__p {
+    color: #33323D;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    opacity: 0.8;
+}
+.contato-section {
+    all: unset;
+    box-sizing: border-box;
+    display: flex;
+    margin-bottom: 100px;
+}
+.contato-section__h2 {
+    margin-right: 125px;
+    min-width: 350px;
+}
+.input-section {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+.label {
+    all: unset;
+    box-sizing: border-box;
+    color: #33323D;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 30px;
+    margin-bottom: 8px;
+    opacity: 0.8;
+}
+.input {
+    all: unset;
+    background: rgb(51, 50, 61, 0.1);
+    box-sizing: border-box;
+    margin-bottom: 24px;
+    min-height: 48px;
+    padding-left: 10px;
+}
+.input--height {
+    margin-bottom: 24px;
+    min-height: 96px;
+}
+.input__btn {
+    background: #203A4C;
+    color: #FFFFFF;
+    max-width: 200px;
+    padding: 17px 24px;
+    text-align: center;
+}

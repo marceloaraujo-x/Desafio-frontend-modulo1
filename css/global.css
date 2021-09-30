@@ -1,0 +1,76 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    max-width: 1440px;
+}
+.padding {
+    padding: 64px 165px 0px;
+}
+.list {
+    align-items: center;
+    display: flex;
+    list-style-type: none;
+}
+.header {
+    display: flex;
+    font-family: 'Public Sans', sans-serif;
+    justify-content: space-between;
+}
+
+.btn {
+    color: #33323D;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    letter-spacing: 2px;
+    line-height: 14px;
+    text-decoration: none;
+}
+.header__btn--collor {
+    color: #5FB4A2;
+}
+.header__btn--right {
+    margin-right: 42px;
+}
+.btn--white {
+    color: #FFFFFF;
+}
+.contato-section {
+    align-items: baseline;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 150px;
+}
+.contato-section__h2 {
+    color: #33323D;
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 40px;
+    line-height: 42px;
+    margin-right: 450px;
+}
+.contato-section__btn {
+    border: 1px solid #33323D;
+    padding: 17px 50px;   
+}
+
+.footer {
+    background: #33323D;
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 165px;  
+}
+.footer__img--right {
+    margin-right: 15px;
+}
+.footer__btn--right {
+    margin-right: 42px;
+}
+.linha {
+    background: #33323D;
+    height: 1px;
+    margin-bottom: 50px;
+    opacity: 0.15;
+    width: 100%;
+}
